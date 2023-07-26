@@ -68,8 +68,10 @@
   <img src="https://streak-stats.demolab.com?user=mani99brar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/mani99brar/mani99brar/output/snake.svg" alt="Snake animation" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mani99brar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-###
+####
+
+[![](https://visitcount.itsvg.in/api?id=mani99brar&icon=4&color=6)](https://visitcount.itsvg.in)
