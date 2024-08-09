@@ -22,11 +22,11 @@
 
 ###
 
-<h3 align="center">👩‍💻  Full Stack and Smart contract developer specialising in security and DeFi.</h3>
+<h3 align="center">👩‍💻  Full Stack and Smart contract developer.</h3>
 
 ###
 
-<p align="left">I'm from Punjab,India 🇮🇳<br><br>- 🔭 I’m a 4th year student<br>- 📚 I'm currently learning ZK<br>- ⚡ In my free time I game.</p>
+<p align="left">I'm from Punjab,India 🇮🇳<br><br>- 🔭 Full Stack developer at Kleros<br>- ⚡ In my free time I game.</p>
 
 ###
 
